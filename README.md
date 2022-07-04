@@ -1,10 +1,10 @@
 ## My Brief Story
 #### I am aspiring to become a data analysist and now pursuing Post Degree Diploma in Data Analytics at Langara College. I will be graduated in September 2023 and would love to contribute my knowledge, skills and experiences to an organization in the near future.
 #### I used to be an assistant professor at Islamic Azad university of Najafabad in Iran and have approximately 12 years experience in teaching electrical engineering power system issues. Also, I have one year experience in short term load forecasting for Isfahan Province Electrical Power Distribution Company.
-#### In the following, my master resume is attached. 
+#### In the following, my resume is attached. 
 #
 #
-## Master Resume
+## Resume
 ### PROFESSIONAL SKILLS AND ABILITIES
 #### Data Analysis Skills
 - Conduct complex statistical calculations using Python/R/SAS to analyze the datasets and release statistical descriptive report
@@ -49,13 +49,6 @@
 -	Surveyed 3 different tenders on replacement old-fashioned OHL of Sofeh site through comparing technical and economic issues to select the most appropriate project 
 
 #
-### VOLUNTEER EXPERIENCE
-
-#### Python instructor	Jun 2021 – Aug 2021
-#### Guidance school of Danesh, Isfahan, Isfahan
--	Taught Python programming to over 20 youth students by using Pycharm to foster logical programming 
-
-#
 ### EDUCATION
 #### - *Langara College*, Vancouver, BC 	Jan 2022 – Present
 #### Data Analytics, Post Degree Diploma
@@ -69,10 +62,6 @@
 
 #### - *Isfahan University of Technology*, Isfahan, Isfahan	Sep 2003
 #### Bachelor of science in Electrical Engineering – power
-
-#
-### HOBBIES / INTERESTS
--	A couple of sports including swimming, volleyball, tennis, badminton and horse riding 
 
 #
 ### ACADEMIC PROJECT
